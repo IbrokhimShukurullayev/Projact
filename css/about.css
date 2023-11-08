@@ -1,0 +1,138 @@
+.main-about-text {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 192px;
+    margin-bottom: 10px;
+    color: var(--text-color, #252B42);
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+}
+
+.main-about-text-list {
+    margin-bottom: 50px;
+    color: var(--second-text-color, #737373);
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+}
+
+
+
+
+
+
+.about-list-logo {
+    display: flex;
+    column-gap: 41px;
+    text-align: center;
+}
+
+
+
+
+.service-card1s {
+    flex-grow: 1;
+    padding: 30px 40px;
+    background: #fff;
+}
+
+.service-card2p {
+    flex-grow: 1;
+    padding: 30px 40px;
+    background: #fff;
+}
+
+.service-card3d {
+    flex-grow: 1;
+    padding: 30px 40px;
+    background: #fff;
+}
+
+.service-card4 {
+    flex-grow: 1;
+    padding: 30px 40px;
+    background: #fff;
+}
+
+
+.service-card-h31 {
+    margin-top: 12px;
+    margin-bottom: 10px;
+    margin-bottom: 10px;
+    color: var(--text-color, #252B42);
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+}
+
+.service-card-p1 {
+    margin-bottom: 35px;
+    color: var(--second-text-color, #737373);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+}
+
+#ibrohim {
+    margin-top: 30px;
+}
+
+
+.service-card1s:hover {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.service-card2p:hover {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.service-card3d:hover {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+.service-card4:hover {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+
+
+.advise-text {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+}
+
+.advise-text-h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 204px;
+    color: var(--text-color, #252B42);
+    font-family: Montserrat;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 57px;
+    letter-spacing: 0.2px;
+}
+
+.advise-text-p {
+    text-align: center;
+    color: var(--second-text-color, #737373);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+}
